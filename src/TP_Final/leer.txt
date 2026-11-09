@@ -1,1 +1,7 @@
+Estos son los archivos que ejecuté para la entrega final de Datamining 2026 comisión C
 
+tplanzador.sh es el bash que llama al notebook de entrenamiento y subida a Kaggle.
+Uso 16 semillas incluyendo las 5 mías originales
+Sólo utilizo Deflación y dolar oficial como métodos de data drifting
+No elimino ningún mes de pandemia
+Al resto del notebook lo dejo como está excepto que lo modifico para recibir parámetros
